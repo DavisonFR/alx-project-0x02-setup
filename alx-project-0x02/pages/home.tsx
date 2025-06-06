@@ -1,4 +1,5 @@
-import Card from "../components/common/Card";
+import Card from "@/components/common/Card";
+
 
 
 export default function Home() {
