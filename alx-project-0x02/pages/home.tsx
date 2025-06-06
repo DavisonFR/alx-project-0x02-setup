@@ -1,5 +1,6 @@
 import Card from "../components/common/Card";
 
+
 export default function Home() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center space-y-4 bg-gray-100 p-6">
@@ -9,3 +10,4 @@ export default function Home() {
     </div>
   );
 }
+
